@@ -25,8 +25,7 @@ Package.on_use(function (api) {
     'lib/themes/style/web-2.0.css',
     'lib/themes/transition/fade.css', 
     'lib/themes/transition/horizontal-slide.css',
-    'lib/themes/transition/vertical-slide.css',
-    'lib/delete.gif'
+    'lib/themes/transition/vertical-slide.css'
   ], 'client'
   );
 });
