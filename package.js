@@ -18,7 +18,7 @@ Package.on_use(function (api) {
     'lib/extensions/navigation/deck.navigation.css',
     'lib/extensions/scale/deck.scale.js',
     'lib/extensions/scale/deck.scale.css',
-    'lib/extensions/status/deck.scale.js',
+    'lib/extensions/status/deck.status.js',
     'lib/extensions/status/deck.status.css',
     'lib/themes/style/neon.css',
     'lib/themes/style/swiss.css',
