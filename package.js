@@ -20,9 +20,6 @@ Package.on_use(function (api) {
     'lib/extensions/scale/deck.scale.css',
     'lib/extensions/status/deck.status.js',
     'lib/extensions/status/deck.status.css',
-    'lib/themes/style/neon.css',
-    'lib/themes/style/swiss.css',
-    'lib/themes/style/web-2.0.css',
     'lib/themes/transition/fade.css', 
     'lib/themes/transition/horizontal-slide.css',
     'lib/themes/transition/vertical-slide.css'
