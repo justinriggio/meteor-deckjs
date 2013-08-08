@@ -3,7 +3,7 @@
   "description": "Modern HTML Presentations",
   "homepage": "https://github.com/justinriggio/meteor-deckjs",
   "author": "Justin Riggio",
-  "version": "1.0",
+  "version": "1.0.0",
   "git": "https://github.com/justinriggio/meteor-deckjs.git",
   "packages": {}
 }
