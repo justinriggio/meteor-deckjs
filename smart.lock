@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "deckjs": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "deckjs": {
+        "path": "."
+      }
+    }
+  }
+}
