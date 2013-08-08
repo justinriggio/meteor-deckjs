@@ -1,9 +1,0 @@
-{
-  "name": "deckjs",
-  "description": "Modern HTML Presentations",
-  "homepage": "https://github.com/justinriggio/meteor-deckjs",
-  "author": "Justin Riggio",
-  "version": "0.1.0",
-  "git": "https://github.com/justinriggio/meteor-deckjs.git",
-  "packages": {}
-}
