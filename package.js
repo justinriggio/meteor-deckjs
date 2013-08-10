@@ -12,8 +12,6 @@ Package.on_use(function (api) {
     'lib/extensions/goto/deck.goto.js',
     'lib/extensions/hash/deck.hash.js',
     'lib/extensions/hash/deck.hash.css',
-    'lib/extensions/menu/deck.menu.js',
-    'lib/extensions/menu/deck.menu.css',
     'lib/extensions/navigation/deck.navigation.js',
     'lib/extensions/navigation/deck.navigation.css',
     'lib/extensions/scale/deck.scale.js',
